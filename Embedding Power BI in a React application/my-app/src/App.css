@@ -3,7 +3,8 @@
   background-color: #282c34;
   margin: 0; /* Remove any margin */
   padding: 0; /* Remove any padding */
-  overflow: -moz-hidden-unscrollable;
+  overflow: hidden;
+  display: block;
 }
 
 .Embed-container {
@@ -13,6 +14,7 @@
     padding: 0; /* Remove any padding */
     overflow: hidden; /* Hide any overflow */
   background-color: white;
+  display: block;
 }
 
 
